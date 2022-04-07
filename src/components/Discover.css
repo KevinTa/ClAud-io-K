@@ -1,0 +1,88 @@
+body {
+    background-color: #30303E !important;
+  }
+
+hr {
+    background-color: #04eced;
+    width: 100%;
+    height: 1px;
+    left: 0px;
+    position: relative;
+
+}
+
+#socialsGroup {
+  top: -40px;
+  left: 1925px;
+  position: relative;
+}
+
+.facebookIcon {
+  top: 50px;
+  left: 50px;
+  position: relative;
+}
+
+#line2 {
+    background-color: #04eced;
+    height: 100%;
+    width: 1px;     
+    left: 50px;
+    top: -20px;
+
+}
+
+ h1 {
+     text-align: left;
+     left: 15px;
+     top: 20px;
+     margin-bottom: 100px;
+     position: relative;
+     color: #3eb360;
+
+ }
+
+ .latest {
+    text-align: left;
+    left: 90px;
+    top: 40px;
+    position: relative;
+    font-size: 25pt;
+    color: #3eb360;
+
+}
+
+  .dropDown {
+    left: 925px;
+    top: 30px;
+    position: relative;
+  }
+
+  #songListRow {
+    position: relative;
+    margin-bottom: 100px;
+    top: 50px;
+  }
+
+  #userSongListRow {
+    position: relative;
+    top: 50px;
+  }
+
+#newComposition {
+    position: relative;
+    margin-left: -125px;
+    top: 55px;
+    width: 150px;
+    height: 40px;
+    border-radius: 25px;
+    border: #3eb360;
+    background-color: #3eb360;
+    font-weight: 500;
+    font-size: 15pt;
+    vertical-align: middle;
+}
+
+
+
+
